@@ -24,7 +24,7 @@ In addition to learning web markup, I spent a lot of time in Photoshop and Quark
 
 After high school I scrapped college for various reasons and went down a very 00s path down graphic design: Design of static websites and sales flyers, business cards, signs, magazine layouts, and so on.
 
-[https://img.youtube.com/vi/frBO8PkEQPA/0.jpg](https://youtu.be/frBO8PkEQPA)
+[![FYI I'm a Graphic Designer](https://img.youtube.com/vi/frBO8PkEQPA/0.jpg)](https://www.youtube.com/watch?v=frBO8PkEQPA)
 
 In 2010 I was totally in over my head with managing a broken team and working 60 hour weeks at a print shop an hour from my house. I needed out. I remembered my web background. I gut checked with my husband, who'd been a computer science major in college in the early 90s, and enrolled at community college for a developer certificate program. I worked full time and took 12 credit hours and finished in 2 semesters. It would the approximate workload of a boot camp, but without relevant technology. Fortunately, my ability to network and my previous experience in design helped me land work quickly. I switched jobs a lot during that time. It was never my intention to hop companies with a set degree of frequency, but in rediscovering a career path, and in a field where I feel the standards of skill is very high, I struggled with finding where I fit in my own field.
 
