@@ -15,9 +15,12 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$slabo: 'Slabo 27px', serif;
 
 // Mobile breakpoints
 @mixin mobile {
