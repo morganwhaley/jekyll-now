@@ -12,13 +12,14 @@ I call myself an introvert with social skills. I grew up _exceptionally_ nerdy a
 
 I enjoy doing things in a big way: Hiking 14,000 foot mountains, racing cars, crafting batch cocktails that will bring down a whole party within hours, making green chili that you'll eat out of spite and joy all at once, and giving talks where two years later people still bring up that it was clear I put a _lot_ of thought into my GIF choices.
 
-![Me on Huron Peak, 14009 feet, September 17 2017](https://instagram.fapa1-2.fna.fbcdn.net/t51.2885-15/s480x480/sh0.08/e35/19984385_562368047220584_1046864842079600640_n.jpg)
-
+![Me on Huron Peak, 14009 feet, September 17 2017](https://instagram.fapa1-2.fna.fbcdn.net/t51.2885-15/s480x480/sh0.08/e35/19984385_562368047220584_1046864842079600640_n.jpg)  
 _Me on Huron Peak, 14007 feet, on September 17, 2017_
 
 ### The Blog
 
 I was watching a talk and of course I can't find the link. But the speaker (who was actually typing the entire time and didn't say a word) pointed out if you don't know what to talk about, you aren't doing enough writing. And if you don't know what to write about, you aren't doing enough reading. I agonize constantly over my writing not being that great, which is a vortex that's easy to get stuck in forever and ever. I realized I just need to go for it. So here we are.
+
+This blog is loosely tech-related. It's my industry but I am a person first and a developer second (or fourth, or eighteenth depending on the day). Most likely there will be a mix of things, from tech, to career, to diversity, to fitness, to nurtition, to professional development, to self actualization, and anything in between.
 
 ### The Past
 
