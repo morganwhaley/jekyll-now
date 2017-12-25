@@ -66,6 +66,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  font-family: $slabo;
 }
 
 a {
@@ -253,10 +254,6 @@ nav {
 }
 
 .post {
-  p {
-    font-family: $slabo;
-  }
-	
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
