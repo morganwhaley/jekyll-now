@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conferences. Or: The Collective Energy of Large Groups and Free Stuff
+title: Conferences, aka the Collective Energy of Large Groups and Free Stuff
 ---
 
 It wasn't until about 2016 that I found out companies would pay to send me to other cities to learn amazing things. My first foray into conferencing what when I worked at LivingSocial. I attended F8 in San Francisco with my Director and a couple other coworkers.
