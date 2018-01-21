@@ -34,7 +34,7 @@ Also for the record here are interview questions I almost always ask of candidat
 - Have you thought about long-term goals in your new technical career and if so, what are they?
 - What questions do you have for me? (ALWAYS come with questions. Take 10 minutes, that's all it takes, and look up the company interviewing you online. See if they have a tech blog or other things that give you a starting point.)
 
-![Sloth Wants to Hear More](https://gph.is/Nda4Uu)
+![Sloth Wants to Hear More](https://media.giphy.com/media/6kvVGhp7bp2WA/giphy.gif)
 
 Also for bonus here are questions I feel may be effective for YOU (the candidate).
 First off, try to lead in with a core value for you. This gives the interviewer context. The second sentence is the question. The value sentences I give below are just suggestions, find what is true to you. Like this:
